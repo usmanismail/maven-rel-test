@@ -26,7 +26,7 @@
                             <masterBranchName>release</masterBranchName>
                             <developBranchName>master</developBranchName>
                             <releaseBranchPrefix>release-</releaseBranchPrefix>
-                            <versionTagPrefix>release-</versionTagPrefix>
+                            <versionTagPrefix>release_</versionTagPrefix>
                         </flowInitContext>
                         <pushReleases>false</pushReleases>
                         <tagMessage>tag-message</tagMessage>
