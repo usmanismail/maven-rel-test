@@ -3,7 +3,7 @@
 
   <groupId>com.kik.test</groupId>
   <artifactId>test-release</artifactId>
-  <version>1.14-SNAPSHOT</version>
+  <version>1.15-SNAPSHOT</version>
   <packaging>jar</packaging>
 
 
