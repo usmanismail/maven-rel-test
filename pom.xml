@@ -3,7 +3,7 @@
 
   <groupId>com.kik.test</groupId>
   <artifactId>test-release</artifactId>
-  <version>1.14</version>
+  <version>1.15</version>
   <packaging>jar</packaging>
 
 
@@ -26,7 +26,7 @@
                             <masterBranchName>release</masterBranchName>
                             <developBranchName>master</developBranchName>
                             <releaseBranchPrefix>release-</releaseBranchPrefix>
-                            <versionTagPrefix>tag-prefix</versionTagPrefix>
+                            <versionTagPrefix>release-</versionTagPrefix>
                         </flowInitContext>
                         <pushReleases>false</pushReleases>
                         <tagMessage>tag-message</tagMessage>
